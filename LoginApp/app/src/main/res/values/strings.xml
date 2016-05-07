@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">LoginApp</string>
 
-    <string name="facebook_app_id">893316127409458</string>
-    <string name="google_app_id">494990567413</string>
+    <string name="facebook_app_id"></string>
+    <string name="google_app_id"></string>
 </resources>
